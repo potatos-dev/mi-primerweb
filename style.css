@@ -7,7 +7,7 @@
 
 body {
     min-height: 100vh;
-    background: linear-gradient(135deg, #4b0082, #c000ff, #ff00a8);
+    background: linear-gradient(135deg, #ffffff, #ffffff, #c3fdff);
     color: rgb(0, 0, 0);
     font-family: "Segoe UI", Arial, sans-serif;
 }
@@ -57,7 +57,7 @@ a {
 
 a:hover {
     background: rgb(0, 0, 0);
-    color: #8a00a8;
+    color: #ffffff;
     transform: scale(1.05);
 }
 

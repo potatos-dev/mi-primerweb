@@ -2,4 +2,5 @@ body {
     background: rgb(0, 0, 0);
     color: #8a00a8;
     transform: scale(1.05);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
